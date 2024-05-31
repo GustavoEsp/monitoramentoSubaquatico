@@ -2,6 +2,7 @@
 # Monitoramento de Luminosidade Subaquática
 
 > Gustavo do Espírito Santo - RM 559034
+<br>
 > Heitor Prestes - RM 554823
 
 ## Justificativa
